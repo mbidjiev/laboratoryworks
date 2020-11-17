@@ -1,0 +1,7 @@
+C:\Users\bidji\source\repos\FirstLR\bin\Debug\FirstLR.exe.config
+C:\Users\bidji\source\repos\FirstLR\bin\Debug\FirstLR.exe
+C:\Users\bidji\source\repos\FirstLR\bin\Debug\FirstLR.pdb
+C:\Users\bidji\source\repos\FirstLR\obj\Debug\FirstLR.csprojAssemblyReference.cache
+C:\Users\bidji\source\repos\FirstLR\obj\Debug\FirstLR.csproj.CoreCompileInputs.cache
+C:\Users\bidji\source\repos\FirstLR\obj\Debug\FirstLR.exe
+C:\Users\bidji\source\repos\FirstLR\obj\Debug\FirstLR.pdb
