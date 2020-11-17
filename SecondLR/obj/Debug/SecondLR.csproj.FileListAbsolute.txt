@@ -1,0 +1,7 @@
+C:\Users\bidji\source\repos\SecondLR\bin\Debug\SecondLR.exe.config
+C:\Users\bidji\source\repos\SecondLR\bin\Debug\SecondLR.exe
+C:\Users\bidji\source\repos\SecondLR\bin\Debug\SecondLR.pdb
+C:\Users\bidji\source\repos\SecondLR\obj\Debug\SecondLR.csprojAssemblyReference.cache
+C:\Users\bidji\source\repos\SecondLR\obj\Debug\SecondLR.csproj.CoreCompileInputs.cache
+C:\Users\bidji\source\repos\SecondLR\obj\Debug\SecondLR.exe
+C:\Users\bidji\source\repos\SecondLR\obj\Debug\SecondLR.pdb
